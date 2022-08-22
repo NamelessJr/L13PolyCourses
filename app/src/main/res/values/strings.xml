@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Polytechnic Courses</string>
+    <string name="polytechnics_intake_enrolment_and_graduates_by_course">Polytechnics\' Intake, Enrolment and Graduates by Course</string>
+    <string name="filters">Filters:</string>
+    <string name="ascending_norder">Ascending\nOrder</string>
+    <string name="descending_norder">Descending\nOrder</string>
+    <string name="highest_nintake">Highest\nIntake</string>
+    <string name="lowest_nintake">Lowest\nIntake</string>
+    <string name="course">Course</string>
+    <string name="year">Year</string>
+    <string name="intake">Intake</string>
+    <string name="enrollment">Enrollment</string>
+    <string name="_1">1</string>
+    <string name="graduates">Graduates</string>
+    <string name="_12">12</string>
+    <string name="_123">123</string>
+</resources>
